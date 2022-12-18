@@ -12,7 +12,7 @@ function App() {
         <Button variant="primary">Add Expense</Button>
       </Stack>
       <div className="information">
-        <Cards name="Entertainment" amount={100} max={1000}></Cards>
+        <Cards name="Entertainment" amount={200} max={1000}></Cards>
       </div>
     </Container>
   );
